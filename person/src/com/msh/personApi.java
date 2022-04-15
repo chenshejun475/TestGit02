@@ -6,5 +6,5 @@ package com.msh;/*
 
 public interface personApi {
     Integer n=0;
-
+    String s ="";
 }
